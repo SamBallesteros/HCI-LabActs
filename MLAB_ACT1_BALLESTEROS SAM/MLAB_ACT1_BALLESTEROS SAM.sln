@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLAB_ACT1_BALLESTEROS SAM", "MLAB_ACT1_BALLESTEROS SAM\MLAB_ACT1_BALLESTEROS SAM.csproj", "{B0340335-2EA2-4828-9DF5-B5790FE45491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0340335-2EA2-4828-9DF5-B5790FE45491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0340335-2EA2-4828-9DF5-B5790FE45491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0340335-2EA2-4828-9DF5-B5790FE45491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0340335-2EA2-4828-9DF5-B5790FE45491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E218DD3-9326-4E4A-9689-58D07BE0FD80}
+	EndGlobalSection
+EndGlobal
